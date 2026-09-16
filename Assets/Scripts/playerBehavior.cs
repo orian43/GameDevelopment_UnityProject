@@ -39,5 +39,8 @@ public class NewMonoBehaviourScript : MonoBehaviour
         motion = transform.TransformDirection(motion); // transforms mation to global coordinates
         controller.Move(motion); //global coordinates
 
+
+        /////
+
     }
 }
