@@ -3,7 +3,7 @@ using UnityEngine;
 public class NewMonoBehaviourScript : MonoBehaviour
 {
     public GameObject PlayerCamera; // public means that it must be connected in Unity
-    float speed = 3;
+    float speed = 17;
     float angular_speed = 100;
     CharacterController controller;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
