@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 5238769852163256642}
   - component: {fileID: 7366467846966171076}
   - component: {fileID: 1544625174359003879}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: DoorAxis
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -201,7 +201,7 @@ GameObject:
   - component: {fileID: 2892311023281582096}
   - component: {fileID: 7724813252600876489}
   - component: {fileID: 106662596954055838}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Door
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -312,7 +312,7 @@ GameObject:
   - component: {fileID: 4083222133427365882}
   - component: {fileID: 2854884989757881480}
   - component: {fileID: 6160302938660780800}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Audio Source
   m_TagString: Untagged
   m_Icon: {fileID: 0}
